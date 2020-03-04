@@ -25,7 +25,14 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+Manifest
+
+*.MANIFEST
+#IMPORT/
+#Author/ data into music projects
+#search./ Lucho-bangs/_ lucho_DJLobo/_3rdWorldGenre'Ent label
+Signature./ From VEERY IMPORTANT ASSET'Org
+Digital./ To 3rdWorldGenre'Ent label
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
