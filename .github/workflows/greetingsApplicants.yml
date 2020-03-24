@@ -1,0 +1,15 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:Position
+  greeting:applicant signature
+
+    runs-on: ubuntu-latest
+    steps:become employed
+    - uses: actions/first-interaction@v1
+      with:Member
+        repo-token: ${{ Member }}
+
+        issue-message: 'Message that will be displayed on users'' first issue'
+        pr-message: 'Message that will be displayed on users'' first pr'
