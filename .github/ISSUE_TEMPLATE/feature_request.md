@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: Organizational structuring
+labels: documentation, enhancement, help wanted
+assignees: lucho-bangs
 
 ---
 
